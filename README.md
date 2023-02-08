@@ -68,7 +68,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 | 微信         | 支付宝           |  
 | ------------ | --------------- |  
-| <img src="https://user-images.githubusercontent.com/15922823/215301088-147cad1d-af96-423d-8d14-d3440d6e3964.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/215301134-1021dc8e-fdd8-4eec-bae4-05ec4a529b42.png" width="300"/> |  
+| <img src="https://user-images.githubusercontent.com/15922823/217595380-ed95381c-271d-4aba-98a1-3cfd8cf5ed73.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/215301134-1021dc8e-fdd8-4eec-bae4-05ec4a529b42.png" width="300"/> |  
 
 
 
