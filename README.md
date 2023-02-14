@@ -70,9 +70,10 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 |                    直接加群                     |               如果前面的无法使用，加我拉你入群               |                          体验公众号                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/15922823/218474463-827042d2-a88b-4ac1-a00d-6175fc53ed44.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/218295462-c2c51502-cd27-4169-8adb-f4969fd9948d.png" width="300"/> | ![image](https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png) |
+| <img src="https://user-images.githubusercontent.com/15922823/218474463-827042d2-a88b-4ac1-a00d-6175fc53ed44.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/218671603-2f4015fe-51e6-4252-bdd3-51daca0e5d33.png" width="300"/> | ![image](https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png) |
   
  
+
 
 ## 捐赠支持
 
