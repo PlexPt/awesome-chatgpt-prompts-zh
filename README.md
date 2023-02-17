@@ -4,8 +4,10 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 在此存储库中，您将找到可与 ChatGPT 一起使用的各种提示。
 
-
-![元宇宙logo](https://user-images.githubusercontent.com/15922823/219698816-5196a5a0-7669-495e-a1d3-02fdadd3f507.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/15922823/219698816-5196a5a0-7669-495e-a1d3-02fdadd3f507.png" width="400"/> 
+  <p>本LOGO由AI生成</p>
+</div?
 
 [点击这里](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/edit/main/README.md) 可以将您自己的调教指南添加到列表中。
 
