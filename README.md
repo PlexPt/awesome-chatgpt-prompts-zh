@@ -15,9 +15,9 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 我们希望您发现这些调教指南很有用，并能从使用 ChatGPT 中获得乐趣！
 
-**[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
+**[在 GitHub 上查看](https://github.com/godofchina/awesome-chatgpt-prompts-zh)**
 
-**[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
+**[在 Gitee 上查看](https://gitee.com/godofchina/awesome-chatgpt-prompts-zh)**
 
 ------
 
