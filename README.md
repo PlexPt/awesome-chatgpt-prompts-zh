@@ -13,7 +13,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 只需使用 README.md 文件中的提示作为 ChatGPT 的输入。您还可以使用此文件中的提示作为创建您自己的提示的灵感。
 
-**朋友的CHATGPT成品帐号：[购买](https://fk.fq.mk/?cid=0&tid=1)**
+### **朋友的CHATGPT成品帐号：[购买](https://fk.fq.mk?code=YT0xJmI9Mg%3D%3D)**
 
 **[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
 
