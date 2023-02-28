@@ -1,19 +1,25 @@
 # 🧠ChatGPT 中文调教指南[![惊人的](https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome)
 
-ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，能够生成类人文本。通过向它提供提示，它可以生成继续对话或扩展给定提示的响应。
+ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够生成类人文本。
 
-在此存储库中，您将找到可与 ChatGPT 一起使用的各种提示。
+官网是 https://ai.com/
+
+[国内中文版](https://chat.plexpt.com/)
+
+它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。
+
+在此页面中，您将找到可与 ChatGPT 一起使用的各种提示。
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/15922823/219698816-5196a5a0-7669-495e-a1d3-02fdadd3f507.png" width="400"/> 
-  <p>本LOGO由AI生成</p>
+  <p>本LOGO是由人工智能生成的，非常酷炫！</p>
 </div>
 
 [点击这里](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/edit/main/README.md) 可以将您自己的调教指南添加到列表中。
 
 只需使用 README.md 文件中的提示作为 ChatGPT 的输入。您还可以使用此文件中的提示作为创建您自己的提示的灵感。
 
-### **朋友的CHATGPT成品帐号：[购买](https://fk.fq.mk?code=YT0xJmI9Mg%3D%3D)**
+### **ChatGPT成品帐号：[购买](https://fk.fq.mk?code=YT0xJmI9Mg%3D%3D)**
 
 **[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
 
