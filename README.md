@@ -657,4 +657,4 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 ## 感谢
 
-[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) 
+[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)  本文部分内容翻译自此
