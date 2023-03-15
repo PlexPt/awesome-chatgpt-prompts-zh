@@ -33,6 +33,11 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 #### [一些有趣的玩法](./USEAGE.md)
 
+## [问题表](./question/README.md)
+
+[问题表](./question/README.md)
+
+共约67万个问题
 
 
 ## 解除封印咒语
