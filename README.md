@@ -1,4 +1,6 @@
-# 🧠ChatGPT 中文调教指南[![惊人的](https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome)
+# 🧠ChatGPT 中文调教指南
+
+![visitor badge](https://visitor-badge.vercel.app/p/PlexPt.awesome-chatgpt-prompts-zh)
 
 ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够生成类人文本。
 
@@ -21,7 +23,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 同时您也可以从这个文件中获取创作灵感来创建您自己的提示。
 
-### **ChatGPT成品帐号：[购买](https://fk.fq.mk?code=YT0xJmI9Mg%3D%3D)**
+### **ChatGPT成品独享帐号：[购买](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)**
 
 **[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
 
@@ -38,6 +40,10 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 [问题表](./question/README.md)
 
 共约67万个问题，欢迎拿去炼丹。
+
+点击👇🏻传送链接，购买云服务器炼丹：
+- [**阿里云服务器**](https://reurl.cc/NqQXyx)
+- [**【腾讯云】云服务器等爆品抢先购，低至4.2元/月**](https://url.cn/B7m0OYnG)
 
 [讨论反馈](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/74)
 
