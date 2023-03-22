@@ -2,7 +2,7 @@
 
 ![visitor badge](https://visitor-badge.vercel.app/p/PlexPt.awesome-chatgpt-prompts-zh)
 
-ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够生成类人文本。
+ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
 
 官网是 https://ai.com/
 
