@@ -42,8 +42,8 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 共约67万个问题，欢迎拿去炼丹。
 
 点击👇🏻传送链接，购买云服务器炼丹：
-- [**阿里云服务器**](https://reurl.cc/NqQXyx)
-- [**【腾讯云】云服务器等爆品抢先购，低至4.2元/月**](https://url.cn/B7m0OYnG)
+- [**阿里云服务器**](https://reurl.cc/NqQXyx) 搜索选择 GPU 计算型
+- [**【腾讯云】云服务器等爆品抢先购，低至4.2元/月**](https://url.cn/B7m0OYnG) 选择 GPU 云服务器
 
 [讨论反馈](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/74)
 
