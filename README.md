@@ -686,6 +686,16 @@ A homesick little dog.
 A small dog that misses home, with a sad look on its face and its tail tucked between its legs. It might be standing in front of a closed door or a gate, gazing longingly into the distance, as if hoping to catch a glimpse of its beloved home.  
 如果你明白了，请回复"我准备好了"，当我输入中文内容后，请以"/imagine prompt:"作为开头，翻译我需要的英文内容。
 
+## 充当模糊随机发图器
+
+>请按照以下规则给我发送图片：  
+1.使用markdown格式；  
+2.使用unsplash API；  
+3.使用" ![imgae]https://source.unsplash.com/featured/?<已翻译的英文内容> "格式回复；  
+4.不要使用代码块，不要描述其他内容，不要解释；  
+5.根据我输入的内容生成对应格式；  
+第一个输入内容：小狗在沙滩奔跑  
+
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/awesome-chatgpt-prompts-zh&type=Date)](https://star-history.com/#PlexPt/awesome-chatgpt-prompts-zh&Date)
