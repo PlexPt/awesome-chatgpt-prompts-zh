@@ -107,11 +107,13 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 ## 加入星球
 
-非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解跟进，可以加入我的知识星球。扫码了解详情：
+非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解跟进，可以加入我的知识星球。扫码了解详情
 
-| 知识星球         | 微信赞赏      | 
-| ------------ | ------------ | 
-| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/217595380-ed95381c-271d-4aba-98a1-3cfd8cf5ed73.png" width="300"/> |
+右边的是生财有术，生财有术今天开始开放加入了，想要赚钱的可以加入。别问为啥这么贵，就是这么贵。**扫码加入，三天无理由退款！**
+
+| 知识星球        | 生财有术 |
+| :----------: | :----------: |
+| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/229569071-a0741f45-89ff-4ec6-93fe-7f39bdfbd0a9.png" width="300"/> |
 
 
 
