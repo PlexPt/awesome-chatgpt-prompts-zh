@@ -120,6 +120,11 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 # 正经指南
 
+直接复制粘贴使用
+
+如需编程请使用https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/prompts-zh.json 
+
+
 ## 写小说
 
 > "写一本拥有出人意料结局的推理小说。"
