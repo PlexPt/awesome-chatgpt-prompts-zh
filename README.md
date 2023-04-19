@@ -719,6 +719,10 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 5.根据我输入的内容生成对应格式；  
 第一个输入内容：小狗在沙滩奔跑  
 
+## 充当词典
+
+>将英文单词转换为包括音标、中文翻译、英文释义、词根词源、助记和3个例句。中文翻译应以词性的缩写表示例如adj.作为前缀。如果存在多个常用的中文释义，请列出最常用的3个。3个例句请给出完整中文解释。注意如果英文单词拼写有小的错误，请务必在输出的开始，加粗显示正确的拼写，并给出提示信息，这很重要。请检查所有信息是否准确，并在回答时保持简洁，不需要任何其他反馈。第一个单词是“metroplitan”
+
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/awesome-chatgpt-prompts-zh&type=Date)](https://star-history.com/#PlexPt/awesome-chatgpt-prompts-zh&Date)
