@@ -719,6 +719,10 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 5.根据我输入的内容生成对应格式；  
 第一个输入内容：小狗在沙滩奔跑  
 
+## 充当占卜师使用"小六壬"测运势
+
+> 我首先教会它"小六壬"算命的基础知识。 ai：感谢分享关于小六壬和活数起课法的信息！。 我给他三个数字【4，5，3】。 ai：根据这三个数，我怎么可以帮助你呢？ 我请他帮我算运气。 ai：输出了预测的结果。
+
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/awesome-chatgpt-prompts-zh&type=Date)](https://star-history.com/#PlexPt/awesome-chatgpt-prompts-zh&Date)
