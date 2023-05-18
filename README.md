@@ -41,11 +41,11 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 #### [一些有趣的玩法](./USEAGE.md)
 
-## 问题表
+## 中文语料库
 
-[问题表](https://github.com/PlexPt/chatgpt-corpus)
+ https://github.com/PlexPt/chatgpt-corpus
 
-共约67万个问题，欢迎拿去炼丹。
+大量不同分类的中文语料库，欢迎拿去炼丹，训练大模型。
 
 点击👇🏻传送链接，购买云服务器炼丹：
 - [**阿里云服务器**](https://51015.cn/ss/3vpds) 搜索选择 GPU 计算型
