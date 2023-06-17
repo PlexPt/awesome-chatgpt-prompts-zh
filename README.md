@@ -22,7 +22,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 同时您也可以从这个文件中获取创作灵感来创建您自己的提示。
 
-### **ChatGPT Plus帐号代开、120美元余额API号-独享： https://fk.fq.mk**
+### **ChatGPT 帐号： https://fk.fq.mk**
 
 **[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
 
