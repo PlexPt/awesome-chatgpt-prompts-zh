@@ -37,32 +37,6 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 ![image](https://user-images.githubusercontent.com/15922823/232669433-f5fa80b7-c7ae-4274-9f06-ad510e655d39.png)
 
 
-## 图片实例
-
-#### [一些有趣的玩法](./USEAGE.md)
-
-## 中文语料库
-
- https://github.com/PlexPt/chatgpt-corpus
-
-大量不同分类的中文语料库，欢迎拿去炼丹，训练大模型。
-
-点击👇🏻传送链接，购买云服务器炼丹：
-- [**阿里云服务器**](https://51015.cn/ss/3vpds) 搜索选择 GPU 计算型
-- [**【腾讯云】云服务器等爆品抢先购，低至4.2元/月**](https://url.cn/B7m0OYnG) 选择 GPU 云服务器
-
-[讨论反馈](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/74)
-
-
-
-
-## 解除封印咒语
-
-#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里 [猫娘持续讨论更新](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12)
-
-#### [更多猫娘玩法点这个](./cat.md)
-
-
 
 ## 它能干什么? 
 
@@ -725,6 +699,35 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 ## 充当词典
 
 >将英文单词转换为包括音标、中文翻译、英文释义、词根词源、助记和3个例句。中文翻译应以词性的缩写表示例如adj.作为前缀。如果存在多个常用的中文释义，请列出最常用的3个。3个例句请给出完整中文解释。注意如果英文单词拼写有小的错误，请务必在输出的开始，加粗显示正确的拼写，并给出提示信息，这很重要。请检查所有信息是否准确，并在回答时保持简洁，不需要任何其他反馈。第一个单词是“metroplitan”
+
+
+
+# 图片实例
+
+#### [一些有趣的玩法](./USEAGE.md)
+
+## 中文语料库
+
+ https://github.com/PlexPt/chatgpt-corpus
+
+大量不同分类的中文语料库，欢迎拿去炼丹，训练大模型。
+
+点击👇🏻传送链接，购买云服务器炼丹：
+- [**阿里云服务器**](https://51015.cn/ss/3vpds) 搜索选择 GPU 计算型
+- [**【腾讯云】云服务器等爆品抢先购，低至4.2元/月**](https://url.cn/B7m0OYnG) 选择 GPU 云服务器
+
+[讨论反馈](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/74)
+
+
+
+
+## 解除封印咒语
+
+#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里 [猫娘持续讨论更新](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12)
+
+#### [更多猫娘玩法点这个](./cat.md)
+
+
 
 # Star History
 
