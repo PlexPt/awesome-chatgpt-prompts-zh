@@ -34,8 +34,6 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 终极ChatGPT [chatgpt.kiask.xyz](https://chatgpt.kiask.xyz/?ap-zh)
 ![封面](https://cdn.jsdelivr.net/gh/imabutahersiddik/Ultimate-ChatGPT/docs/images/ch-tr-pr.jpg)
 
-将其翻译为中文。
-
 ## 基于GPT3.5 和 4.0 的国内中文版智造喵
 
 智造喵  https://chat.aimakex.com
