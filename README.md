@@ -730,7 +730,7 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 
 点击👇🏻传送链接，购买云服务器炼丹：
 - [**阿里云服务器**](https://51015.cn/ss/3vpds) 搜索选择 GPU 计算型
-- [**【腾讯云】云服务器等爆品抢先购，低至4.2元/月**](https://url.cn/B7m0OYnG) 选择 GPU 云服务器
+- [**【腾讯云】服务器，低至4.2元/月**](https://curl.qcloud.com/NiGEWRdn) 选择 GPU 云服务器
 
 [讨论反馈](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/74)
 
