@@ -13,7 +13,6 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
   <p>本LOGO是由人工智能生成的，非常酷炫！</p>
 </div>
 
-### **ChatGPT 帐号： https://fk.fq.mk**
 
 **[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
 
@@ -21,7 +20,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 ------
 
-## 基于GPT3.5 和 4.0 的国内中文版智造喵
+## 基于GPT3.5 和 4.0 Turbo 的国内中文版智造喵
 
 智造喵  https://chat.aimakex.com
 
