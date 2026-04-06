@@ -20,6 +20,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 ------
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. MIT licensed.
 ## 基于GPT3.5 和 4.0 Turbo 的国内中文版智造喵
 
 智造喵  https://chat.aimakex.com
