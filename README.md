@@ -729,6 +729,7 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 点击👇🏻传送链接，购买云服务器炼丹：
 - [**阿里云服务器**](https://51015.cn/ss/3vpds) 搜索选择 GPU 计算型
 - [**【腾讯云】服务器，低至4.2元/月**](https://curl.qcloud.com/NiGEWRdn) 选择 GPU 云服务器
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 [讨论反馈](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/74)
 
