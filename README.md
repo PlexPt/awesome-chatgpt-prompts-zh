@@ -742,3 +742,4 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 ## 感谢
 
 [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)  本文部分内容翻译自此
+- [AI Tools Hub](https://cloud1-d4g787x2022795b0b-1435432994.tcloudbaseapp.com/hub.html) - 21 free AI tools with crypto payment, no subscriptions.
