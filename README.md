@@ -2,6 +2,15 @@
 
 ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
 
+<p align="center">
+  <a href="https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=awesome-chatgpt-prompts-zh">
+    <img src="./assets/atlas-cloud-logo.png" alt="Atlas Cloud logo" width="220">
+  </a>
+</p>
+
+> 🎁 **[Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=awesome-chatgpt-prompts-zh)** 可以直接拿这份仓库里的中文提示词做批量实验、角色扮演、写作润色、翻译和 Agent 提示词对比，用一个 OpenAI-compatible API 快速切换 DeepSeek、Qwen、GLM、Kimi、MiniMax 等模型。
+> 对提示词迭代和日常 AI 写作也很友好：[coding plan](https://www.atlascloud.ai/console/coding-plan)
+
 [国内中文版](https://chat.aimakex.com/i/1)
 
 它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。
@@ -11,6 +20,16 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 **[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
 
 ------
+
+## 用 Atlas Cloud 运行这些提示词
+
+如果你想把这份仓库里的中文提示词拿去做真实对比测试，可以直接使用 Atlas Cloud：
+
+- 用同一套提示词横向比较不同模型的回答风格
+- 用 OpenAI-compatible 接口快速接到自己的脚本、站点或工作流里
+- 适合中文写作、翻译、角色扮演、教育、营销、客服等高频 Prompt 场景
+
+官网入口：[Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=awesome-chatgpt-prompts-zh)
 
 ## 基于GPT5.5的国内中文版智造喵
 
