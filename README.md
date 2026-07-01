@@ -1,4 +1,5 @@
 # 🧠ChatGPT 中文调教指南
+- [AI Token Hub](https://aitoken-hub.github.io/aitoken-hub/) - Access 200+ AI models through a single API key, including DeepSeek, Qwen, Llama. OpenAI-compatible format with pay-as-you-go pricing.
 
 ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
 
